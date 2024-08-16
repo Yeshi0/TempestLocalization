@@ -1,0 +1,122 @@
+NOTE: To use question marks in a translation, use hashtags instead.
+      Tempest Launcher will convert hashtags to question marks when needed.
+      Don't translate this note.
+
+
+
+
+
+invalidTab@Neplatná stránka. Něco se velice pokazilo.
+store@Obchod
+library@Knihovna
+editor@Editor
+runtimes@Runtimy
+settings@Nastavení
+dismiss@Propustit
+cancel@Zrušit
+confirm@Potvrdit
+ok@OK
+failed@Nepodařilo se
+skipped@Přeskočeno
+quit@Opustit Tempest Spouštěč
+
+addLibrary@Přidat do knihovny
+removeLibrary@Odstranit z knihovny
+viewLibrary@Zobrazit v knihovně
+reinstall@Přeinstalovat
+changeVersion@Změnit Verzi
+manageSaveData@Spravovat uložená data
+
+devMode1@Vývojářský režim je nyní aktivní.\nTohle je určeno pro zabránění nechtěných aktualizací.\n\nPokud nejste vývojář Tempest spouštěče, vyberte 'Aktualizovat přesto'.
+devMode2@Aktualizovat přesto
+
+reload1@Odnačítání starých dat...
+reload2@Kontrolování pro aktualizací spouštěče...
+reload3@Stahování obsahu obchodu...
+reload4@Renderování obsahu obchodu...
+reload5@Načítání místní knihovny...
+reload6@Renderování místní knihovny...
+reload7@Načítání knihovny editora...
+reload8@Renderování knihovny editora...
+reload9@Načítání knihovny runtime...
+reload10@Renderování knihovny runtime...
+reload11@Kontrolování pro aktualizací knihovny...
+reload12@Kontrolování...
+
+reloadFail1@Nepodařilo se provést opětovné načtení.\n\nTo je obvykle způsobeno následujícím:\n- Poškozená instalace spouštěče\n- Poškozená knihovna\n- Neplatná odpověď serveru\n\nPokud používáte ne-standardní servery, skontrolujte jejich postavení.
+reloadFail2@Pokusit přenačtení
+
+needsNetworking1@Internetový přístup je zakázán.\n\nPro povolení:\n- Běžte do nastavení\n- Zobrazte výzvu k přístupu k síti
+
+launch1@Rozhodování kterou verzi spustit...
+launch2@Čtení runtime verze z archivu...
+launch3@Kontrolování pro správnou Tempest Runtime...
+launch4@Spouštění Tempest Runtime a možně vystupování...
+
+launchFail1@Nepodařilo se spustit hru.\nSkuste Přeinstalovat ze spravovací stránky hry.
+
+noPreferred1@Nebyl nalezen žádný preferovaný Tempest Runtime patch.\nPokud si nejste jistí který použít, použijte ten nejnovější.
+noPreferred2@Instalovat nejnovější Tempest Runtime patch
+noPreferred3@Spravovat instalované runtime patche
+
+update1@Vytváření zálohy aktuální instalace Tempest spouštěče...
+update2@Stahování listu složek...
+update3@Vytváření složek...
+update4@Stahování listu souborů...
+update5@Stahování souborů...
+update6@Restartování pro dokončení instalace...
+
+install1@Rozhodování kterou verzi instalovat...
+install2@Mazání staré verze pokud existuje...
+install3@Generování podrobností...
+install4@Stahování aplikace...
+install5@Nastavování jako preferovanou verzi...
+install6@aplikace byla instalována.\nCo byste chtěli udělat#
+
+installFail1@Nepodařilo se instalovat aplikaci.\nKontentové servery můžou být pod údržbou, Skuste znovu později.
+
+settings1@Nastavení Tempest spouštěče.\nZměny se projeví hned.
+settings2@Zobrazit výzvu k souhlasu s přístupem k síti
+settings3@Opustit launcher po spuštění hry: Ano
+settings4@Opustit launcher po spuštění hry: Ne
+settings5@Motiv: Světlý
+settings6@Motiv: Tmavý
+settings7@Zobrazit možnosti jazyka
+settings8@Zobrazit možnosti resetování
+settings9@Kontrolovat pro aktualizace her při spouštění: Ano
+settings10@Kontrolovat pro aktualizace her při spouštění: Ne
+
+reset1@Možnosti resetování Tempest spouštěče.\n\nProsím přečtěte si následující opatrně.\nTady můžete stratit hodně dat.
+reset2@Resetovat nastavení Tempest spouštěče
+reset3@Smazat knihovnu Tempest spouštěče
+reset4@Smažte všechna uložená data od her
+
+resetLauncher1@Jste si jistí že chcete resetovat data od Tempest spouštěče#\nToto nelze vrátit zpět.
+resetLauncher2@Nastavení Tempest spouštěče byly resetovány.\nAby se to správně projevilo, musíte restartovat Tempest Launcher.
+
+resetLibrary1@Jste si jistí že chcete smazat vaši celou knihovnu her#\nTímto nestratíte uložená data her.\nToto nelze vrátit zpět.
+resetLibrary2@Vaše knihovna her byla smazána.\nAby se to správně projevilo, musíte restartovat Tempest Launcher.
+
+resetSaveData1@Jste si jistí že chcete smazat všechna data her#\nTohle zahrnuje hry které momentálně nemáte instalované.\nKvůli závažnosti této operace, musíte to udělat manuálně.\n\nPro smazání všech dat her:\n- Bežte do složky 'TempestEngine/internal/saveData/'\n- Smažte všechy složky v té složce
+
+removeLibrary1@Jste si jistí že chcete odstranit tuhle hru z vaší knihovny#\nTohle vám nesmaže uložená data od této hry.
+
+reinstallLibrary1@Jste si jistí že chcete pře-instalovat tuhle hru#\nTohle vám nesmaže uložená data od této hry.
+
+updateFail1@Aktualizace se nezdařila.\nTempest Spouštěč by se měl vrátit spátky na předchozí verzi.\nPokud je něco rozbité, naštěvte 'https://tempestengine.org/rescue/'.\nMůžete se pokusit aktualizovat znova po této zprávě.
+
+updateComplete1@Aktualizace dokončena.\nPro zobrazení změn, běžte na 'https://tempestengine.org/blog/'.
+
+runtime1@Stahování patch listu...
+runtime2@Rozhodování který patch instalovat...
+runtime3@Mazání staré instalace pokud existuje...
+runtime4@Stahování listu složek...
+runtime5@Vytváření složek...
+runtime6@Stahování listu souborů...
+runtime7@Stahování souborů...
+runtime8@Nastavování jako prefervaný runtime patch...
+
+language1@Vyber jazyk z listu.\nMůžete je najít v: 'TempestEngine/internal/launcher/language/'.
+
+updateNotification1@Aktualizace je dostupná pro:
+updateNotification2@Vyberte 'Spravovat hru' potom 'Změnit verzi' pro aktualizaci.

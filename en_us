@@ -1,0 +1,144 @@
+NOTE: To use question marks in a translation, use hashtags instead.
+      Tempest Launcher will convert hashtags to question marks when needed.
+      Don't translate this note.
+
+
+
+
+
+invalidTab@Invalid tab, something has gone terribly wrong.
+store@Store
+library@Library
+editor@Editor
+runtimes@Runtimes
+settings@Settings
+dismiss@Dismiss
+cancel@Cancel
+confirm@Confirm
+ok@OK
+failed@Failed
+skipped@Skipped
+quit@Quit Tempest Launcher
+
+playGame@Play game
+addLibrary@Add to library
+removeLibrary@Remove from library
+uninstall@Uninstall
+viewLibrary@View in library
+reinstall@Reinstall
+changeVersion@Change version
+changePatch@Change patch
+manageSaveData@Manage save data
+openEditor@Open in editor
+moreInfo@More info
+manage@Manage game
+manageGeneric@Manage
+
+devMode1@Dev mode is currently active.\nThis is used to prevent accidental updates.\n\nIf you're not a Tempest Launcher developer, pick 'update anyway'.
+devMode2@Update anyway
+
+reload1@Unloading old data...
+reload2@Checking for launcher updates...
+reload3@Downloading store library...
+reload4@Rendering store library...
+reload5@Loading local library...
+reload6@Rendering local library...
+reload7@Loading editor library...
+reload8@Rendering editor library...
+reload9@Loading runtimes library...
+reload10@Rendering runtimes library...
+reload11@Checking for local library updates...
+reload12@Checking flags...
+
+reloadFail1@Failed to perform reload.\n\nThis is typically caused by the following:\n- Broken Tempest Launcer install\n- Broken library contents\n- Invalid server reply\n\nIf using non-standard servers, check their statuses.
+reloadFail2@Attempt reload
+
+needsNetworking1@Internet access is disabled.\n\nTo reconnect:\n- Go to launcher settings\n- Show the network access prompt
+
+launch1@Deciding which version to launch...
+launch2@Reading runtime version from archive...
+launch3@Checking for appropriate Tempest Runtime...
+launch4@Starting Tempest Runtime and possibly quitting...
+
+launchFail1@Failed to launch game.\nTry reinstalling from the game's management page.
+
+noPreferred1@No preferred Tempest Runtime patch configured.\nIf you're unsure which patch to use, install the latest.
+noPreferred2@Install latest Tempest Runtime patch
+noPreferred3@Manage installed runtime patches
+
+update1@Creating backup of current Tempest Launcher install...
+update2@Downloading folder list...
+update3@Creating folders...
+update4@Downloading file list...
+update5@Downloading files...
+update6@Restarting to finish update...
+
+install1@Deciding which version to install...
+install2@Deleting old install if present...
+install3@Generating meta...
+install4@Downloading app...
+install5@Setting as preferred version...
+install6@App has been installed.\nWhat would you like to do#
+
+installFail1@Failed to install app.\nContent servers may be down, try again later.
+
+settings1@Tempest Launcher settings.\nChanges will be saved immediately.
+settings2@Show network access consent prompt
+settings3@Quit launcher on game launch: Yes
+settings4@Quit launcher on game launch: No
+settings5@Theme: Light
+settings6@Theme: Dark
+settings7@Show language options
+settings8@Show reset options
+settings9@Check for game updates on Tempest Launcher startup: Yes
+settings10@Check for game updates on Tempest Launcher startup: No
+
+reset1@Tempest Launcher reset options.\n\nPlease read confirmations prompts carefully.\nYou could lose a lot of data here.
+reset2@Reset Tempest Launcher settings
+reset3@Delete Tempest Launcher library
+reset4@Delete all game save data
+
+resetLauncher1@Are you sure you want to reset Tempest Launcher settings#\nThis cannot be undone.
+resetLauncher2@Tempest Launcher settings have been reset.\nYou must restart Tempest Launcher for this to properly apply.
+
+resetLibrary1@Are you sure you want to delete your entire games library#\nYou will not lose game save data.\nThis cannot be undone.
+resetLibrary2@Your games library has been deleted.\nYou must restart Tempest Launcher for this to properly apply.
+
+resetSaveData1@Are you sure you want to delete all game save data#\nThis includes games that are not currently installed.\nDue to the severity of this operation, you must do it manually.\n\nTo delete all game save data:\n- Browse to the 'TempestEngine/internal/saveData/' directory\n- Delete all sub-directories
+
+removeLibrary1@Are you sure you want to remove this game from your library#\nNote that this will not delete any of your save data.
+
+reinstallLibrary1@Are you sure you want to reinstall this game#\nNote that this will not delete any of your save data.
+
+updateFail1@Update failed.\nTempest Launcher should've reverted back to the previous version.\nIf something's broken, visit 'https://tempestengine.org/rescue/'.\nYou can try updating again after closing this message.
+
+updateComplete1@Update complete.\nTo see what changed, visit 'https://tempestengine.org/blog/^'.
+
+runtime1@Downloading patch list...
+runtime2@Deciding which patch to install...
+runtime3@Deleting old install if present...
+runtime4@Downloading folder list...
+runtime5@Creating folders...
+runtime6@Downloading file list...
+runtime7@Downloading files...
+runtime8@Setting as preferred runtime patch...
+
+language1@Select a language from the list.\nThese are found in 'TempestEngine/internal/launcher/language/'.
+
+updateNotification1@Update available for:
+updateNotification2@Select 'manage game' then 'change version' to update.
+
+selectInstall1@Select the game version you wish to install.\nCurrently installed:
+
+launcherUpdate1@Launcher update available.
+launcherUpdate2@Update now
+
+removeRuntime1@Are you sure you want to uninstall this runtime#\nYou will not lose any game save data.
+
+aboutTempestRuntime1@Tempest Runtime is a Batch implementation of NewEngine.\nThis allows you to run most NewEngine games within cmd.exe.\nAlways use the latest patch unless you know what you're doing.
+
+reinstallRuntime1@Reinstall this runtime#\nYou will not lose any game save data.
+
+selectInstallRuntime1@Choose which Tempest Runtime patch you want to install.\nAlways use the latest patch unless you know what you're doing.
+
+addRuntime1@Choose which Tempest Runtime version you want to install.\nTempest Runtime version numbers match NewEngine spec versions.

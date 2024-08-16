@@ -1,0 +1,144 @@
+NOTE: To use question marks in a translation, use hashtags instead.
+      Tempest Launcher will convert hashtags to question marks when needed.
+      Don't translate this note.
+
+
+
+
+
+invalidTab@Ugyldig fane, noe har gått veldig galt.
+store@Butikk
+library@Bibliotek
+editor@Redaktør
+runtimes@Kjøretider
+settings@Innstillinger
+dismiss@Avvis
+cancel@Avbryt
+confirm@Bekreft
+ok@OK
+failed@Mislyktes
+skipped@Skipped
+quit@Avslutt Tempest Launcher
+
+playGame@Start spill
+addLibrary@Legg til
+removeLibrary@Fjern fra bibliotek
+uninstall@Avinnstaller
+viewLibrary@Vis i bibliotek
+reinstall@Reinstaller
+changeVersion@Endre versjon
+changePatch@Endre patch
+manageSaveData@Se lagret data
+openEditor@Åone i redaktør
+moreInfo@Mer info
+manage@Innstillinger
+manageGeneric@Innstillinger
+
+devMode1@Utviklings-modus er aktiv.\nDette er brukt for å forhindre oppdateringer.\n\nOm du ikke er en Tempest Launcher utvikler, velg 'Oppdater uansett'.
+devMode2@Oppdater uansett
+
+reload1@Avlaster gammel data...
+reload2@Sjekker for Tempest Launcher oppdateringer...
+reload3@Laster ned butikk bibliotek...
+reload4@Lager grafikk for butikk bibliotek...
+reload5@Laster lokal bibliotek...
+reload6@Lager grafikk for lokal bibliotek...
+reload7@Laster redaktør bibliotek...
+reload8@Lager grafikk for redaktør bibliotek...
+reload9@Laster kjøretider bibliotek...
+reload10@Lager grafikk for kjøretider bibliotek...
+reload11@Sjekker for lokal bibliotek oppdateringer...
+reload12@Sjekker flagg...
+
+reloadFail1@Kunne ikke utføre omlasting.\n\nDette er vanligvis forårsaket av det følgende:\n- Ødelagt Tempest Launcer installasjon\n- Ødelagt bibliotek innhold\n- Ugyldig server svar\n\nHvis du bruker ikke-standard servere, sjekk statusene dems.
+reloadFail2@Prøv omlasting
+
+needsNetworking1@Internett tilgang is avslått.\n\nFor å omkoble:\n- Gå til Tempest Launcher innstillinger\n- Vis internett tilgang tillatelses meldingen
+
+launch1@Bestemmer hvilken versjon som skal installeres...
+launch2@Leser kjøretid versjon fra arkivet...
+launch3@Sjekker for passende Tempest Runtime installasjon...
+launch4@Starter Tempest Runtime og muligens avslutter...
+
+launchFail1@Klarte ikke starte spillet.\nPrøv å installere på nytt fra spillets innstillinger
+
+noPreferred1@Ingen foretrekket Tempest Runtime versjon er konfigurert.\nOm du er usikker hvilken versjon du vil bruke, innstaller den nyeste.
+noPreferred2@Innstaller nyeste Tempest Runtime versjon
+noPreferred3@Behandle innstallerte kjøretider
+
+update1@Lager backup av nåværende Tempest Launcher innstallasjon...
+update2@Laster ned mappe liste...
+update3@Lager mapper...
+update4@Laster ned fil liste...
+update5@Laster ned filer...
+update6@Omstarter for a fullføre oppdateringen...
+
+install1@Velger hvilken versjon som skal innstalleres...
+install2@Sletter gammel installasjon hvis den eksisterer...
+install3@Genererer meta data...
+install4@Laster ned spill...
+install5@Setter som foretrekket versjon...
+install6@Spill har blitt innstallert.\nHva vil du gjøre#
+
+installFail1@Kunne ikke innstallere spill.\nInnhold servere kan være nede, prøv igjen senere.
+
+settings1@Tempest Launcher innstillinger.\nEndringer vil bli lagret umiddelbart.
+settings2@Vis internett tilgang tillatelses meldingen
+settings3@Avslutt Tempest Launcher når ett spill startes: Ja
+settings4@Avslutt Tempest Launcher når ett spill startes: Nei
+settings5@Tema: Lys
+settings6@Tema: Mørk
+settings7@Vis språk valg
+settings8@Vis tilbakestillingsalternativer
+settings9@Sjekk for spill-oppdateringer når Tempest Launcher starter: Ja
+settings10@Sjekk for spill-oppdateringer når Tempest Launcher starter: Nei
+
+reset1@Tempest Launcher tilbakestillingsalternativer.\n\nVennligst les bekreftelses meldinger nøye.\nDu kan miste mye data her.
+reset2@Tilbakestill Tempest Launcher innstillinger
+reset3@Slett Tempest Launcher bibliotek
+reset4@Slett alle lagrede spill data
+
+resetLauncher1@Er du sikker på at du vil tilbakestille Tempest Launcher innstillinger#\nDette kan ikke angres.
+resetLauncher2@Tempest Launcher innstillinger har blitt tilbakestilt.\nDu må omstarte Tempest Launcher.
+
+resetLibrary1@Er du sikker på at du vil slette biblioteket ditt#\nDu vil ikke tape lagrede spill data.\nDette kan ikke angres.
+resetLibrary2@Biblioteket ditt har blitt slettet.\nDu må omstarte Tempest Launcher.
+
+resetSaveData1@Er du sikker på at du vil slette all lagrede spill data#\nDette inkluderer spill som ikke er innstallert for øyeblikket.\nDu må gjøre denne operasjonen manuelt.\n\nFor å slette all lagrede spill data::\n- Gå til mappen 'TempestEngine/internal/saveData/'\n- Slett alle undermapper
+
+removeLibrary1@Er du sikker på at du vil fjerne dette spillet fra biblioteket ditt#\nDette vil ikke slette lagrede spill data.
+
+reinstallLibrary1@Er du sikker på at du vil reinstallere dette spillet#\nDette vil ikke slette lagrede spill data.
+
+updateFail1@Kunne ikke fullføre oppdatering.\nTempest Launcher skal ha gått tilbake til forige versjon automatisk.\nHvis noe ikke fungerer, besøk 'https://tempestengine.org/rescue/'.\nDu kan prøve å oppdatere igjen etter du har lukket denne meldingen.
+
+updateComplete1@Oppdatering fullført.\nFor å se hva som endret, besøk 'https://tempestengine.org/blog/'.
+
+runtime1@Laster ned versjon liste...
+runtime2@Velger hvilken versjon å installere...
+runtime3@Sletter gammel innstallasjon hvis den eksisterer...
+runtime4@Laster ned mappe liste...
+runtime5@Lager mapper...
+runtime6@Laster ned fil liste...
+runtime7@Laster ned filer...
+runtime8@Setter som foretrekket kjøretid versjon...
+
+language1@Velg et språk fra listen.\nSpråk filer er i 'TempestEngine/internal/launcher/language/'.
+
+updateNotification1@Oppdatering tilgjengelig for:
+updateNotification2@Velg 'Behandle' deretter 'velg versjon' for å oppdatere.
+
+selectInstall1@Velg versjonen du vil innstallere.\nInnstallert nå:
+
+launcherUpdate1@Launcher oppdatering tilgjengelig.
+launcherUpdate2@Oppdater nå
+
+removeRuntime1@Er du sikker på at du vil avinnstallere denne kjøretiden#\nDu vil ikke miste lagrede spill data.
+
+aboutTempestRuntime1@Tempest Runtime er en Batch implementasjon av NewEngine.\nDen lar deg kjøre flesteparten av NewEngine spill fra cmd.exe.\nAlltid bruk den nyeste patch versjonen om du ikke er sikker.
+
+reinstallRuntime1@Reinnstaller denne kjøretiden#\nDu vil ikke miste lagrede spill data.
+
+selectInstallRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nAlltid bruk den nyeste patch versjonen om du ikke er sikker.
+
+addRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nTempest Runtime versjon nummere passer NewEngine spec versjoner.

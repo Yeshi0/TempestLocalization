@@ -1,0 +1,144 @@
+NOTE: To use question marks in a translation, use hashtags instead.
+      Tempest Launcher will convert hashtags to question marks when needed.
+      Don't translate this note.
+
+
+
+
+
+invalidTab@NO TRANSLATION FOR invalidTab
+store@NO TRANSLATION FOR store
+library@NO TRANSLATION FOR library
+editor@NO TRANSLATION FOR editor
+runtimes@NO TRANSLATION FOR runtimes
+settings@NO TRANSLATION FOR settings
+dismiss@NO TRANSLATION FOR dismiss
+cancel@NO TRANSLATION FOR cancel
+confirm@NO TRANSLATION FOR confirm
+ok@NO TRANSLATION FOR ok
+failed@NO TRANSLATION FOR failed
+skipped@NO TRANSLATION FOR skipped
+quit@NO TRANSLATION FOR quit
+
+playGame@NO TRANSLATION FOR playGame
+addLibrary@NO TRANSLATION FOR addLibrary
+removeLibrary@NO TRANSLATION FOR removeLibrary
+uninstall@NO TRANSLATION FOR uninstall
+viewLibrary@NO TRANSLATION FOR viewLibrary
+reinstall@NO TRANSLATION FOR reinstall
+changeVersion@NO TRANSLATION FOR changeVersion
+changePatch@NO TRANSLATION FOR changePatch
+manageSaveData@NO TRANSLATION FOR manageSaveData
+openEditor@NO TRANSLATION FOR openEditor
+moreInfo@NO TRANSLATION FOR moreInfo
+manage@NO TRANSLATION FOR manage
+manageGeneric@NO TRANSLATION FOR manageGeneric
+
+devMode1@NO TRANSLATION FOR devMode1
+devMode2@NO TRANSLATION FOR devMode2
+
+reload1@NO TRANSLATION FOR reload1
+reload2@NO TRANSLATION FOR reload2
+reload3@NO TRANSLATION FOR reload3
+reload4@NO TRANSLATION FOR reload4
+reload5@NO TRANSLATION FOR reload5
+reload6@NO TRANSLATION FOR reload6
+reload7@NO TRANSLATION FOR reload7
+reload8@NO TRANSLATION FOR reload8
+reload9@NO TRANSLATION FOR reload9
+reload10@NO TRANSLATION FOR reload10
+reload11@NO TRANSLATION FOR reload11
+reload12@NO TRANSLATION FOR reload12
+
+reloadFail1@NO TRANSLATION FOR reloadFail1
+reloadFail2@NO TRANSLATION FOR reloadFail2
+
+needsNetworking1@NO TRANSLATION FOR needsNetworking1
+
+launch1@NO TRANSLATION FOR launch1
+launch2@NO TRANSLATION FOR launch2
+launch3@NO TRANSLATION FOR launch3
+launch4@NO TRANSLATION FOR launch4
+
+launchFail1@NO TRANSLATION FOR launchFail1
+
+noPreferred1@NO TRANSLATION FOR noPreferred1
+noPreferred2@NO TRANSLATION FOR noPreferred2
+noPreferred3@NO TRANSLATION FOR noPreffered3
+
+update1@NO TRANSLATION FOR update1
+update2@NO TRANSLATION FOR update2
+update3@NO TRANSLATION FOR update3
+update4@NO TRANSLATION FOR update4
+update5@NO TRANSLATION FOR update5
+update6@NO TRANSLATION FOR update6
+
+install1@NO TRANSLATION FOR install1
+install2@NO TRANSLATION FOR install2
+install3@NO TRANSLATION FOR install3
+install4@NO TRANSLATION FOR install4
+install5@NO TRANSLATION FOR install5
+install6@NO TRANSLATION FOR install6
+
+installFail1@NO TRANSLATION FOR installFail1
+
+settings1@NO TRANSLATION FOR settings1
+settings2@NO TRANSLATION FOR settings2
+settings3@NO TRANSLATION FOR settings3
+settings4@NO TRANSLATION FOR settings4
+settings5@NO TRANSLATION FOR settings5
+settings6@NO TRANSLATION FOR settings6
+settings7@NO TRANSLATION FOR settings7
+settings8@NO TRANSLATION FOR settings8
+settings9@NO TRANSLATION FOR settings9
+settings10@NO TRANSLATION FOR settings10
+
+reset1@NO TRANSLATION FOR reset1
+reset2@NO TRANSLATION FOR reset2
+reset3@NO TRANSLATION FOR reset3
+reset4@NO TRANSLATION FOR reset4
+
+resetLauncher1@NO TRANSLATION FOR resetLauncher1
+resetLauncher2@NO TRANSLATION FOR resetLauncher2
+
+resetLibrary1@NO TRANSLATION FOR resetLibrary1
+resetLibrary2@NO TRANSLATION FOR resetLibrary2
+
+resetSaveData1@NO TRANSLATION FOR resetSaveData1
+
+removeLibrary1@NO TRANSLATION FOR removeLibrary1
+
+reinstallLibrary1@NO TRANSLATION FOR reinstallLibrary1
+
+updateFail1@NO TRANSLATION FOR updateFail1
+
+updateComplete1@NO TRANSLATION FOR updateComplete1
+
+runtime1@NO TRANSLATION FOR runtime1
+runtime2@NO TRANSLATION FOR runtime2
+runtime3@NO TRANSLATION FOR runtime3
+runtime4@NO TRANSLATION FOR runtime4
+runtime5@NO TRANSLATION FOR runtime5
+runtime6@NO TRANSLATION FOR runtime6
+runtime7@NO TRANSLATION FOR runtime7
+runtime8@NO TRANSLATION FOR runtime8
+
+language1@NO TRANSLATION FOR language1
+
+updateNotification1@NO TRANSLATION FOR updateNotification1
+updateNotification2@NO TRANSLATION FOR updateNotification2
+
+selectInstall1@NO TRANSLATION FOR selectInstall1
+
+launcherUpdate1@NO TRANSLATION FOR launcherUpdate1
+launcherUpdate2@NO TRANSLATION FOR launcherUpdate2
+
+removeRuntime1@Are you sure you want to uninstall this runtime#\nYou will not lose any game save data.
+
+aboutTempestRuntime1@NO TRANSLATION FOR aboutTempestRuntime1
+
+reinstallRuntime1@NO TRANSLATION FOR reinstallRuntime1
+
+selectInstallRuntime1@NO TRANSLATION FOR selectInstallRuntime1
+
+addRuntime1@NO TRANSLATION FOR addRuntime1
