@@ -20,12 +20,19 @@ failed@Nepodařilo se
 skipped@Přeskočeno
 quit@Opustit Tempest Spouštěč
 
+playGame@Hrát hru
 addLibrary@Přidat do knihovny
 removeLibrary@Odstranit z knihovny
+uninstall@Odinstalovat
 viewLibrary@Zobrazit v knihovně
 reinstall@Přeinstalovat
 changeVersion@Změnit Verzi
+changePatch@Změnit patch
 manageSaveData@Spravovat uložená data
+openEditor@Otevřít v editoru
+moreInfo@Více informací
+manage@Spravovat hru
+manageGeneric@Spravovat
 
 devMode1@Vývojářský režim je nyní aktivní.\nTohle je určeno pro zabránění nechtěných aktualizací.\n\nPokud nejste vývojář Tempest spouštěče, vyberte 'Aktualizovat přesto'.
 devMode2@Aktualizovat přesto
@@ -120,3 +127,18 @@ language1@Vyber jazyk z listu.\nMůžete je najít v: 'TempestEngine/internal/la
 
 updateNotification1@Aktualizace je dostupná pro:
 updateNotification2@Vyberte 'Spravovat hru' potom 'Změnit verzi' pro aktualizaci.
+
+selectInstall1@Vyberte verzi hry kterou chcete instalovat.\Aktuálně instalovaná:
+
+launcherUpdate1@Je dostupná aktualizace launcheri.
+launcherUpdate2@Aktualizovat teď
+
+removeRuntime1@Jste si jistí že chcete odinstalovat tuhle runtime#\nNestratíte žádné data her.
+
+aboutTempestRuntime1@Tempest Runtime je Batch implementace standardu NewEngine.\nUmožňuje spouštění většiny her NewEngine ve cmd.exe.\nVždy používejte nejnovější patch, pokud nevíte, co děláte.
+
+reinstallRuntime1@Přeinstalovat tuhle runtime#\nYNestratíte žádné data her.
+
+selectInstallRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nVždycky používejte nejnovější patch, pokud nevíte, co děláte.
+
+addRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nČísla verzí Tempest Runtime odpovídají verzím specifikací NewEngine.
