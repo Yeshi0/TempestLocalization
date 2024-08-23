@@ -21,15 +21,15 @@ skipped@Přeskočeno
 quit@Opustit Tempest Spouštěč
 
 playGame@Hrát hru
-addLibrary@Přidat do knihovny
+addLibrary@Přidat
 removeLibrary@Odstranit z knihovny
 uninstall@Odinstalovat
-viewLibrary@Zobrazit v knihovně
+viewLibrary@Zobrazit
 reinstall@Přeinstalovat
 changeVersion@Změnit Verzi
 changePatch@Změnit patch
-manageSaveData@Spravovat uložená data
-openEditor@Otevřít v editoru
+manageSaveData@Spravovat data
+openEditor@Otevřít editor
 moreInfo@Více informací
 manage@Spravovat hru
 manageGeneric@Spravovat
