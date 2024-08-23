@@ -6,139 +6,141 @@ NOTE: To use question marks in a translation, use hashtags instead.
 
 
 
-invalidTab@NO TRANSLATION FOR invalidTab
-store@NO TRANSLATION FOR store
-library@NO TRANSLATION FOR library
-editor@NO TRANSLATION FOR editor
-runtimes@NO TRANSLATION FOR runtimes
-settings@NO TRANSLATION FOR settings
-dismiss@NO TRANSLATION FOR dismiss
-cancel@NO TRANSLATION FOR cancel
-confirm@NO TRANSLATION FOR confirm
-ok@NO TRANSLATION FOR ok
-failed@NO TRANSLATION FOR failed
-skipped@NO TRANSLATION FOR skipped
-quit@NO TRANSLATION FOR quit
+invalidTab@92
+store@12
+library@12
+editor@12
+runtimes@12
+settings@14
+dismiss@65
+cancel@65
+confirm@65
+ok@15
+failed@15
+skipped@15
+quit@65
 
-playGame@NO TRANSLATION FOR playGame
-addLibrary@NO TRANSLATION FOR addLibrary
-removeLibrary@NO TRANSLATION FOR removeLibrary
-uninstall@NO TRANSLATION FOR uninstall
-viewLibrary@NO TRANSLATION FOR viewLibrary
-reinstall@NO TRANSLATION FOR reinstall
-changeVersion@NO TRANSLATION FOR changeVersion
-changePatch@NO TRANSLATION FOR changePatch
-manageSaveData@NO TRANSLATION FOR manageSaveData
-openEditor@NO TRANSLATION FOR openEditor
-moreInfo@NO TRANSLATION FOR moreInfo
-manage@NO TRANSLATION FOR manage
-manageGeneric@NO TRANSLATION FOR manageGeneric
+playGame@16
+addLibrary@16
+removeLibrary@65
+uninstall@16
+viewLibrary@16
+reinstall@16
+changeVersion@16
+changePatch@16
+manageSaveData@16
+openEditor@16
+moreInfo@16
+manage@16
+manageGeneric@16
 
-devMode1@NO TRANSLATION FOR devMode1
-devMode2@NO TRANSLATION FOR devMode2
+devMode1@65
+devMode2@65
 
-reload1@NO TRANSLATION FOR reload1
-reload2@NO TRANSLATION FOR reload2
-reload3@NO TRANSLATION FOR reload3
-reload4@NO TRANSLATION FOR reload4
-reload5@NO TRANSLATION FOR reload5
-reload6@NO TRANSLATION FOR reload6
-reload7@NO TRANSLATION FOR reload7
-reload8@NO TRANSLATION FOR reload8
-reload9@NO TRANSLATION FOR reload9
-reload10@NO TRANSLATION FOR reload10
-reload11@NO TRANSLATION FOR reload11
-reload12@NO TRANSLATION FOR reload12
+reload1@65
+reload2@65
+reload3@65
+reload4@65
+reload5@65
+reload6@65
+reload7@65
+reload8@65
+reload9@65
+reload10@65
+reload11@65
+reload12@65
 
-reloadFail1@NO TRANSLATION FOR reloadFail1
-reloadFail2@NO TRANSLATION FOR reloadFail2
+reloadFail1@65
+reloadFail2@65
 
-needsNetworking1@NO TRANSLATION FOR needsNetworking1
+needsNetworking1@65
 
-launch1@NO TRANSLATION FOR launch1
-launch2@NO TRANSLATION FOR launch2
-launch3@NO TRANSLATION FOR launch3
-launch4@NO TRANSLATION FOR launch4
+launch1@65
+launch2@65
+launch3@65
+launch4@65
 
-launchFail1@NO TRANSLATION FOR launchFail1
+launchFail1@65
 
-noPreferred1@NO TRANSLATION FOR noPreferred1
-noPreferred2@NO TRANSLATION FOR noPreferred2
-noPreferred3@NO TRANSLATION FOR noPreffered3
+noPreferred1@65
+noPreferred2@65
+noPreferred3@65
 
-update1@NO TRANSLATION FOR update1
-update2@NO TRANSLATION FOR update2
-update3@NO TRANSLATION FOR update3
-update4@NO TRANSLATION FOR update4
-update5@NO TRANSLATION FOR update5
-update6@NO TRANSLATION FOR update6
+update1@65
+update2@65
+update3@65
+update4@65
+update5@65
+update6@65
 
-install1@NO TRANSLATION FOR install1
-install2@NO TRANSLATION FOR install2
-install3@NO TRANSLATION FOR install3
-install4@NO TRANSLATION FOR install4
-install5@NO TRANSLATION FOR install5
-install6@NO TRANSLATION FOR install6
+install1@65
+install2@65
+install3@65
+install4@65
+install5@65
+install6@65
 
-installFail1@NO TRANSLATION FOR installFail1
+installFail1@65
 
-settings1@NO TRANSLATION FOR settings1
-settings2@NO TRANSLATION FOR settings2
-settings3@NO TRANSLATION FOR settings3
-settings4@NO TRANSLATION FOR settings4
-settings5@NO TRANSLATION FOR settings5
-settings6@NO TRANSLATION FOR settings6
-settings7@NO TRANSLATION FOR settings7
-settings8@NO TRANSLATION FOR settings8
-settings9@NO TRANSLATION FOR settings9
-settings10@NO TRANSLATION FOR settings10
+settings1@65
+settings2@65
+settings3@65
+settings4@65
+settings5@65
+settings6@65
+settings7@65
+settings8@65
+settings9@65
+settings10@65
 
-reset1@NO TRANSLATION FOR reset1
-reset2@NO TRANSLATION FOR reset2
-reset3@NO TRANSLATION FOR reset3
-reset4@NO TRANSLATION FOR reset4
+reset1@65
+reset2@65
+reset3@65
+reset4@65
 
-resetLauncher1@NO TRANSLATION FOR resetLauncher1
-resetLauncher2@NO TRANSLATION FOR resetLauncher2
+resetLauncher1@65
+resetLauncher2@65
 
-resetLibrary1@NO TRANSLATION FOR resetLibrary1
-resetLibrary2@NO TRANSLATION FOR resetLibrary2
+resetLibrary1@65
+resetLibrary2@65
 
-resetSaveData1@NO TRANSLATION FOR resetSaveData1
+resetSaveData1@65
 
-removeLibrary1@NO TRANSLATION FOR removeLibrary1
+removeLibrary1@65
 
-reinstallLibrary1@NO TRANSLATION FOR reinstallLibrary1
+reinstallLibrary1@65
 
-updateFail1@NO TRANSLATION FOR updateFail1
+updateFail1@65
 
-updateComplete1@NO TRANSLATION FOR updateComplete1
+updateComplete1@65
 
-runtime1@NO TRANSLATION FOR runtime1
-runtime2@NO TRANSLATION FOR runtime2
-runtime3@NO TRANSLATION FOR runtime3
-runtime4@NO TRANSLATION FOR runtime4
-runtime5@NO TRANSLATION FOR runtime5
-runtime6@NO TRANSLATION FOR runtime6
-runtime7@NO TRANSLATION FOR runtime7
-runtime8@NO TRANSLATION FOR runtime8
+runtime1@65
+runtime2@65
+runtime3@65
+runtime4@65
+runtime5@65
+runtime6@65
+runtime7@65
+runtime8@65
 
-language1@NO TRANSLATION FOR language1
+language1@65
 
-updateNotification1@NO TRANSLATION FOR updateNotification1
-updateNotification2@NO TRANSLATION FOR updateNotification2
+updateNotification1@65
+updateNotification2@65
 
-selectInstall1@NO TRANSLATION FOR selectInstall1
+selectInstall1@65
 
-launcherUpdate1@NO TRANSLATION FOR launcherUpdate1
-launcherUpdate2@NO TRANSLATION FOR launcherUpdate2
+launcherUpdate1@18
+launcherUpdate2@18
 
-removeRuntime1@Are you sure you want to uninstall this runtime#\nYou will not lose any game save data.
+removeRuntime1@65
 
-aboutTempestRuntime1@NO TRANSLATION FOR aboutTempestRuntime1
+aboutTempestRuntime1@65
 
-reinstallRuntime1@NO TRANSLATION FOR reinstallRuntime1
+reinstallRuntime1@65
 
-selectInstallRuntime1@NO TRANSLATION FOR selectInstallRuntime1
+selectInstallRuntime1@65
 
-addRuntime1@NO TRANSLATION FOR addRuntime1
+addRuntime1@65
+
+manageSaveData1@65

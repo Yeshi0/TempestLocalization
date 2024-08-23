@@ -17,7 +17,7 @@ cancel@Avbryt
 confirm@Bekreft
 ok@OK
 failed@Mislyktes
-skipped@Skipped
+skipped@Hoppet over
 quit@Avslutt Tempest Launcher
 
 playGame@Start spill
@@ -34,7 +34,7 @@ moreInfo@Mer info
 manage@Innstillinger
 manageGeneric@Innstillinger
 
-devMode1@Utviklings-modus er aktiv.\nDette er brukt for å forhindre oppdateringer.\n\nOm du ikke er en Tempest Launcher utvikler, velg 'Oppdater uansett'.
+devMode1@Utviklings-modus er aktiv.\nDette er brukt for å forhindre oppdateringer.\n\nOm du ikke er en Tempest Launcher utvikler:\n- Velg 'Oppdater uansett'.
 devMode2@Oppdater uansett
 
 reload1@Avlaster gammel data...
@@ -62,7 +62,7 @@ launch4@Starter Tempest Runtime og muligens avslutter...
 
 launchFail1@Klarte ikke starte spillet.\nPrøv å installere på nytt fra spillets innstillinger
 
-noPreferred1@Ingen foretrekket Tempest Runtime versjon er konfigurert.\nOm du er usikker hvilken versjon du vil bruke, innstaller den nyeste.
+noPreferred1@Ingen foretrekket Tempest Runtime versjon er konfigurert.\nOm du er usikker, innstaller den nyeste versjonen.
 noPreferred2@Innstaller nyeste Tempest Runtime versjon
 noPreferred3@Behandle innstallerte kjøretider
 
@@ -98,19 +98,19 @@ reset2@Tilbakestill Tempest Launcher innstillinger
 reset3@Slett Tempest Launcher bibliotek
 reset4@Slett alle lagrede spill data
 
-resetLauncher1@Er du sikker på at du vil tilbakestille Tempest Launcher innstillinger#\nDette kan ikke angres.
+resetLauncher1@Er du sikker du vil tilbakestille Tempest Launcher innstillinger#\nDette kan ikke angres.
 resetLauncher2@Tempest Launcher innstillinger har blitt tilbakestilt.\nDu må omstarte Tempest Launcher.
 
-resetLibrary1@Er du sikker på at du vil slette biblioteket ditt#\nDu vil ikke tape lagrede spill data.\nDette kan ikke angres.
+resetLibrary1@Er du sikker du vil slette biblioteket ditt#\nDu vil ikke tape lagrede spill data.\nDette kan ikke angres.
 resetLibrary2@Biblioteket ditt har blitt slettet.\nDu må omstarte Tempest Launcher.
 
-resetSaveData1@Er du sikker på at du vil slette all lagrede spill data#\nDette inkluderer spill som ikke er innstallert for øyeblikket.\nDu må gjøre denne operasjonen manuelt.\n\nFor å slette all lagrede spill data::\n- Gå til mappen 'TempestEngine/internal/saveData/'\n- Slett alle undermapper
+resetSaveData1@Er du sikker du vil slette all lagrede spill data#\nDette inkluderer spill som ikke er innstallert for øyeblikket.\nDu må gjøre denne operasjonen manuelt.\n\nFor å slette all lagrede spill data::\n- Gå til mappen 'TempestEngine/internal/saveData/'\n- Slett alle undermapper
 
-removeLibrary1@Er du sikker på at du vil fjerne dette spillet fra biblioteket ditt#\nDette vil ikke slette lagrede spill data.
+removeLibrary1@Er du sikker du vil fjerne dette spillet fra biblioteket ditt#\nDette vil ikke slette lagrede spill data.
 
-reinstallLibrary1@Er du sikker på at du vil reinstallere dette spillet#\nDette vil ikke slette lagrede spill data.
+reinstallLibrary1@Er du sikker du vil reinstallere dette spillet#\nDette vil ikke slette lagrede spill data.
 
-updateFail1@Kunne ikke fullføre oppdatering.\nTempest Launcher skal ha gått tilbake til forige versjon automatisk.\nHvis noe ikke fungerer, besøk 'https://tempestengine.org/rescue/'.\nDu kan prøve å oppdatere igjen etter du har lukket denne meldingen.
+updateFail1@Kunne ikke fullføre oppdatering.\nTempest Launcher har gått tilbake til forige versjon automatisk.\nHvis noe ikke fungerer, besøk 'https://tempestengine.org/rescue/'\nDu kan prøve igjen etter du har lukket denne meldingen.
 
 updateComplete1@Oppdatering fullført.\nFor å se hva som endret, besøk 'https://tempestengine.org/blog/'.
 
@@ -130,10 +130,10 @@ updateNotification2@Velg 'Behandle' deretter 'velg versjon' for å oppdatere.
 
 selectInstall1@Velg versjonen du vil innstallere.\nInnstallert nå:
 
-launcherUpdate1@Launcher oppdatering tilgjengelig.
+launcherUpdate1@Launcher\noppdatering\ntilgjengelig.
 launcherUpdate2@Oppdater nå
 
-removeRuntime1@Er du sikker på at du vil avinnstallere denne kjøretiden#\nDu vil ikke miste lagrede spill data.
+removeRuntime1@Er du sikker du vil avinnstallere denne kjøretiden#\nDu vil ikke miste lagrede spill data.
 
 aboutTempestRuntime1@Tempest Runtime er en Batch implementasjon av NewEngine.\nDen lar deg kjøre flesteparten av NewEngine spill fra cmd.exe.\nAlltid bruk den nyeste patch versjonen om du ikke er sikker.
 
@@ -142,3 +142,5 @@ reinstallRuntime1@Reinnstaller denne kjøretiden#\nDu vil ikke miste lagrede spi
 selectInstallRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nAlltid bruk den nyeste patch versjonen om du ikke er sikker.
 
 addRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nTempest Runtime versjon nummere passer NewEngine spec versjoner.
+
+manageSaveData1@For å behandle lagrede spill data:\n\n- Navigrt til 'TempestEngine/internal/saveData'\n- Åpne 'friendlyNames.txt'\n- Find ID-en til spiller du vil behandle.\n- Naviger til spillets mappe.

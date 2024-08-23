@@ -130,7 +130,7 @@ updateNotification2@Select 'manage game' then 'change version' to update.
 
 selectInstall1@Select the game version you wish to install.\nCurrently installed:
 
-launcherUpdate1@Launcher update available.
+launcherUpdate1@Launcher\nupdate\navailable.
 launcherUpdate2@Update now
 
 removeRuntime1@Are you sure you want to uninstall this runtime#\nYou will not lose any game save data.
@@ -142,3 +142,5 @@ reinstallRuntime1@Reinstall this runtime#\nYou will not lose any game save data.
 selectInstallRuntime1@Choose which Tempest Runtime patch you want to install.\nAlways use the latest patch unless you know what you're doing.
 
 addRuntime1@Choose which Tempest Runtime version you want to install.\nTempest Runtime version numbers match NewEngine spec versions.
+
+manageSaveData1@To manage save data:\n\n- Navigate to 'TempestEngine/internal/saveData'\n- Open 'friendlyNames.txt'\n- Find the ID of the game you wish to manage\n- Navigate inside the appropriate folder
