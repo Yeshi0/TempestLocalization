@@ -34,7 +34,7 @@ moreInfo@Více informací
 manage@Spravovat hru
 manageGeneric@Spravovat
 
-devMode1@Vývojářský režim je nyní aktivní.\nTohle je určeno pro zabránění nechtěných aktualizací.\n\nPokud nejste vývojář Tempest spouštěče, vyberte 'Aktualizovat přesto'.
+devMode1@Vývojářský režim je nyní aktivní.\nTohle je určeno pro zabránění nechtěných aktualizací.\nPokud nejste vývojář Tempest spouštěče,\nvyberte 'Aktualizovat přesto'.
 devMode2@Aktualizovat přesto
 
 reload1@Odnačítání starých dat...
@@ -50,7 +50,7 @@ reload10@Renderování knihovny runtime...
 reload11@Kontrolování pro aktualizací knihovny...
 reload12@Kontrolování...
 
-reloadFail1@Nepodařilo se provést opětovné načtení.\n\nTo je obvykle způsobeno následujícím:\n- Poškozená instalace spouštěče\n- Poškozená knihovna\n- Neplatná odpověď serveru\n\nPokud používáte ne-standardní servery, skontrolujte jejich postavení.
+reloadFail1@Nepodařilo se provést opětovné načtení.\n\nTo je obvykle způsobeno následujícím:\n- Poškozená instalace spouštěče\n- Poškozená knihovna\n- Neplatná odpověď serveru\nPokud používáte ne-standardní servery, zkontrolujte jejich\npostavení.
 reloadFail2@Pokusit přenačtení
 
 needsNetworking1@Internetový přístup je zakázán.\n\nPro povolení:\n- Běžte do nastavení\n- Zobrazte výzvu k přístupu k síti
@@ -110,7 +110,7 @@ removeLibrary1@Jste si jistí že chcete odstranit tuhle hru z vaší knihovny#\
 
 reinstallLibrary1@Jste si jistí že chcete pře-instalovat tuhle hru#\nTohle vám nesmaže uložená data od této hry.
 
-updateFail1@Aktualizace se nezdařila.\nTempest Spouštěč by se měl vrátit spátky na předchozí verzi.\nPokud je něco rozbité, naštěvte 'https://tempestengine.org/rescue/'.\nMůžete se pokusit aktualizovat znova po této zprávě.
+updateFail1@Aktualizace se nezdařila.\nTempest Spouštěč by se měl vrátit spátky na předchozí verzi.\nPokud je něco rozbité, běžte na následující stránku:\n'https://tempestengine.org/rescue/'.\nMůžete se pokusit aktualizovat znova po této zprávě.
 
 updateComplete1@Aktualizace dokončena.\nPro zobrazení změn, běžte na 'https://tempestengine.org/blog/'.
 
@@ -130,7 +130,7 @@ updateNotification2@Vyberte 'Spravovat hru' potom 'Změnit verzi' pro aktualizac
 
 selectInstall1@Vyberte verzi hry kterou chcete instalovat.\Aktuálně instalovaná:
 
-launcherUpdate1@Je dostupná aktualizace launcheri.
+launcherUpdate1@Je dostupná aktualizace launcheru.
 launcherUpdate2@Aktualizovat teď
 
 removeRuntime1@Jste si jistí že chcete odinstalovat tuhle runtime#\nNestratíte žádné data her.
@@ -141,4 +141,6 @@ reinstallRuntime1@Přeinstalovat tuhle runtime#\nYNestratíte žádné data her.
 
 selectInstallRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nVždycky používejte nejnovější patch, pokud nevíte, co děláte.
 
-addRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nČísla verzí Tempest Runtime odpovídají verzím specifikací NewEngine.
+addRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nČísla verzí Tempest Runtime odpovídají verzím specifikací\nNewEngine.
+
+manageSaveData1@Pro spravování uložených dat:\n\n- Navigujte do 'TempestEngine/internal/saveData'\n- Otevřete 'friendlyNames.txt'\n- Najděte ID hry kterou chcete spravovat\n- Navigujte ve správné složce
