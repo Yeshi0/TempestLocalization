@@ -24,7 +24,7 @@ for /f "tokens=1 delims=" %%a in ('dir /b /a-d') do if NOT "%%a"=="fallback" if 
 			for %%d in (!string1!) do (
 				call :getStringLength "%%d"
 				if !length! GTR !len_%%b! (
-					echo(ERROR: Translated text exceeds length limits in '%%a': '%%b'. Consider inserting newlines ^('\n'^).
+					echo(ERROR: Translated text exceeds length limits in '%%a': '%%b'. The max length for this translation is '!len_%%b!'. Consider inserting newlines ^('\n'^).
 					if NOT "!len_%%b!"=="65" (
 						echo(       WARNING: String max length is not 65, this means newlines are likely NOT supported.
 						echo(                You may try using newlines anyway, but please manually check to make sure they work.
