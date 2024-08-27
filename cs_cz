@@ -144,3 +144,5 @@ selectInstallRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nV
 addRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nČísla verzí Tempest Runtime odpovídají verzím specifikací\nNewEngine.
 
 manageSaveData1@Pro spravování uložených dat:\n\n- Navigujte do 'TempestEngine/internal/saveData'\n- Otevřete 'friendlyNames.txt'\n- Najděte ID hry kterou chcete spravovat\n- Navigujte ve správné složce
+
+setLanguage1@Pokračovat s:
