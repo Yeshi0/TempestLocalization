@@ -144,3 +144,5 @@ selectInstallRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nAll
 addRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nTempest Runtime versjon nummere passer NewEngine spec versjoner.
 
 manageSaveData1@For å behandle lagrede spill data:\n\n- Navigrt til 'TempestEngine/internal/saveData'\n- Åpne 'friendlyNames.txt'\n- Find ID-en til spiller du vil behandle.\n- Naviger til spillets mappe.
+
+setLanguage1@Fortsett med:

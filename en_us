@@ -112,7 +112,7 @@ reinstallLibrary1@Are you sure you want to reinstall this game#\nNote that this 
 
 updateFail1@Update failed.\nTempest Launcher should've reverted back to the previous version.\nIf something's broken, visit 'https://tempestengine.org/rescue/'.\nYou can try updating again after closing this message.
 
-updateComplete1@Update complete.\nTo see what changed, visit 'https://tempestengine.org/blog/^'.
+updateComplete1@Update complete.\nTo see what changed, visit 'https://tempestengine.org/blog/'.
 
 runtime1@Downloading patch list...
 runtime2@Deciding which patch to install...
@@ -144,3 +144,5 @@ selectInstallRuntime1@Choose which Tempest Runtime patch you want to install.\nA
 addRuntime1@Choose which Tempest Runtime version you want to install.\nTempest Runtime version numbers match NewEngine spec versions.
 
 manageSaveData1@To manage save data:\n\n- Navigate to 'TempestEngine/internal/saveData'\n- Open 'friendlyNames.txt'\n- Find the ID of the game you wish to manage\n- Navigate inside the appropriate folder
+
+setLanguage1@Continue with:
