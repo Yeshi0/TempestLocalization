@@ -6,6 +6,7 @@ NOTE: To use question marks in a translation, use hashtags instead.
 
 
 
+displayString@American English
 invalidTab@Invalid tab, something has gone terribly wrong.
 store@Store
 library@Library
@@ -146,3 +147,8 @@ addRuntime1@Choose which Tempest Runtime version you want to install.\nTempest R
 manageSaveData1@To manage save data:\n\n- Navigate to 'TempestEngine/internal/saveData'\n- Open 'friendlyNames.txt'\n- Find the ID of the game you wish to manage\n- Navigate inside the appropriate folder
 
 setLanguage1@Continue with:
+
+lastEntry1@Click here to\nsee your library
+lastEntry2@Click here to\nget more games
+lastEntry3@Click here to\ncreate new game
+lastEntry4@Click here to\ninstall runtime

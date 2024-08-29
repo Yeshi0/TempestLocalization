@@ -22,6 +22,7 @@ for /f "tokens=1 delims=" %%a in ('dir /b /a-d') do if NOT "%%a"=="fallback" if 
 			set "string1=!string1: =_!"
 			set "string1=!string1:\n= !"
 			for %%d in (!string1!) do (
+				rem todo: use substring and compare against "", remove call to getStringLength
 				call :getStringLength "%%d"
 				if !length! GTR !len_%%b! (
 					echo(ERROR: Translated text exceeds length limits in '%%a': '%%b'. The max length for this translation is '!len_%%b!'. Consider inserting newlines ^('\n'^).

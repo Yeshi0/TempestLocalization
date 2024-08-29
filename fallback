@@ -6,6 +6,7 @@ NOTE: To use question marks in a translation, use hashtags instead.
 
 
 
+displayString@40
 invalidTab@92
 store@12
 library@12
@@ -146,3 +147,8 @@ addRuntime1@65
 manageSaveData1@65
 
 setLanguage1@60
+
+lastEntry1@16
+lastEntry2@16
+lastEntry3@16
+lastEntry4@16

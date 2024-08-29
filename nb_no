@@ -6,6 +6,7 @@ NOTE: To use question marks in a translation, use hashtags instead.
 
 
 
+displayString@Norsk (Bokmål)
 invalidTab@Ugyldig fane, noe har gått veldig galt.
 store@Butikk
 library@Bibliotek
@@ -53,7 +54,7 @@ reload12@Sjekker flagg...
 reloadFail1@Kunne ikke utføre omlasting.\n\nDette er vanligvis forårsaket av det følgende:\n- Ødelagt Tempest Launcer installasjon\n- Ødelagt bibliotek innhold\n- Ugyldig server svar\n\nHvis du bruker ikke-standard servere, sjekk statusene dems.
 reloadFail2@Prøv omlasting
 
-needsNetworking1@Internett tilgang is avslått.\n\nFor å omkoble:\n- Gå til Tempest Launcher innstillinger\n- Vis internett tilgang tillatelses meldingen
+needsNetworking1@Internett tilgang er avslått.\n\nFor å omkoble:\n- Gå til Tempest Launcher innstillinger\n- Vis internett tilgang tillatelses meldingen
 
 launch1@Bestemmer hvilken versjon som skal installeres...
 launch2@Leser kjøretid versjon fra arkivet...
@@ -146,3 +147,8 @@ addRuntime1@Velg vilken Tempest Runtime patch du vil innstallere.\nTempest Runti
 manageSaveData1@For å behandle lagrede spill data:\n\n- Navigrt til 'TempestEngine/internal/saveData'\n- Åpne 'friendlyNames.txt'\n- Find ID-en til spiller du vil behandle.\n- Naviger til spillets mappe.
 
 setLanguage1@Fortsett med:
+
+lastEntry1@Klikk her for\nå dra til lokal\nbiblioteket ditt
+lastEntry2@Klikk her for\nå få flere spill
+lastEntry3@Klikk her for\nå lage nytt\nspill
+lastEntry4@Klikk her for\nå installere ny\nkjøretid
