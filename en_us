@@ -152,3 +152,9 @@ lastEntry1@Click here to\nsee your library
 lastEntry2@Click here to\nget more games
 lastEntry3@Click here to\ncreate new game
 lastEntry4@Click here to\ninstall runtime
+
+migrateSave1@You're currently downgrading your game version.\nThis newly installed version will receive its own save data folder.\nYou may want to fiddle with save data manually.@     get translation from manageSaveData1 here!
+migrateSave2@You're currently upgrading your game version.\nHowever, save data for this version already exists.\nYou may want to fiddle with save data manually.@     get translation from manageSaveData1 here!
+migrateSave3@You're currently upgrading your game version.\nSave data for this version doesn't exist yet.\nWould you like to migrate your save data over?
+migrateSave4@Yes, migrate my save data over
+migrateSave5@No, don't migrate my save data, I'll do it manually
