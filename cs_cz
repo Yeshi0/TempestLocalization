@@ -6,6 +6,7 @@ NOTE: To use question marks in a translation, use hashtags instead.
 
 
 
+displayString@Čeština
 invalidTab@Neplatná stránka. Něco se velice pokazilo.
 store@Obchod
 library@Knihovna
@@ -146,3 +147,16 @@ addRuntime1@Vyberte Tempest Runtime patch který chcete instalovat.\nČísla ver
 manageSaveData1@Pro spravování uložených dat:\n\n- Navigujte do 'TempestEngine/internal/saveData'\n- Otevřete 'friendlyNames.txt'\n- Najděte ID hry kterou chcete spravovat\n- Navigujte ve správné složce
 
 setLanguage1@Pokračovat s:
+
+lastEntry1@Klikněte zde pro\nzobrazení vaši\nknihovny
+lastEntry2@Klikněte zde pro\nzískání více her
+lastEntry3@Klikněte zde pro\nvytvoření nové\nhry
+lastEntry4@Klikněte zde pro\ninstalování\nruntime
+
+migrateSave1@Nyní downgradujete verzi vaší hry.\nTahle nově-instalovaná verze dostane vlastní složku pro uložené data.\nTyhle data si můžete manipulovat manuálně.
+migrateSave2@Nyní upgradujete verzi vaší hry,\nale uložené data pro tuhle verzi už existujou.\nTyhle data si můžete manipulovat manuálně.
+migrateSave3@Nyní upgradujete verzi vaší hry.\nUložené data pro tuhle verzi ještě neexistujou.\nChcete tato data migrovat?
+migrateSave4@Ano, chci migrovat svoje uložené data
+migrateSave5@Ne, nemigrovat moje uložené data. Udělám to manuálně.
+
+continueOffline1@Pokračovat v offline módu
